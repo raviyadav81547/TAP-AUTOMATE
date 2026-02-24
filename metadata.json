@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dazzler AI",
+  "description": "Turn your daily reading list into a personalized audio news summary for your commute, powered by Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
